@@ -224,28 +224,6 @@ python live_predict.py
 ## 👤 Author
 
 **Abhinav Kante**
-B.Tech – Computer Science & Engineering
+B.Tech – Computer Science & Engineering 
 
----
-
-## 🏆 Why This Project Matters
-
-This project demonstrates:
-
-* Practical application of machine learning
-* Real-time audio analysis
-* Robust system design
-* Industry-relevant problem solving
-
-It is suitable for **resume, GitHub portfolio, interviews, and academic evaluation**.
-
----
-
-If you want next, I can:
-
-* ✨ Shorten this for **resume**
-* ✨ Create **LinkedIn project description**
-* ✨ Prepare **interview explanation (1–2 mins)**
-* ✨ Start **P2 (NLP project)**
-
-Just tell me 👍
+##THE END###
